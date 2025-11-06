@@ -78,13 +78,21 @@ namespace Calculator
 
         private void NumButtons_Click(object sender, EventArgs e)
         {
-            if (((Button)sender).Text == "." && txtResultDisplay.Text.Contains(".")) return;
-            if (txtResultDisplay.Text == "0") txtResultDisplay.Text = string.Empty;
-            if (operationStarted) txtResultDisplay.Text = ((Button)sender).Text;
-            else txtResultDisplay.Text += ((Button)sender).Text;
-            operationStarted = false;
+            string value = ((Button)sender).Text;
 
+            if (value == "." && txtResultDisplay.Text.Contains(".")) return;
+
+            if (txtResultDisplay.Text == "0" && value != ".")
+                txtResultDisplay.Text = string.Empty;
+
+            if (operationStarted)
+                txtResultDisplay.Text = value;
+            else
+                txtResultDisplay.Text += value;
+
+            operationStarted = false;
         }
+
 
         private void btnMemoryClear_Click(object sender, EventArgs e)
         {

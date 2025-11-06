@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|C:\\Calculator\\calculator\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:calculator\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|C:\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|C:\\Calculator\\Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|c:\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|C:\\Calculator\\calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|C:\\Calculator\\Calculator\\Tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|C:\\Calculator\\Calculator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D5ACC7-F47A-448F-B6FC-38F1A8F3FB4D}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
               "ToolTip": "C:\\Calculator\\Calculator\\Form1.cs",
               "RelativeToolTip": "Calculator\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T21:51:52.959Z",
               "IsPinned": true,
@@ -48,20 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tools.cs",
-              "DocumentMoniker": "C:\\Calculator\\Calculator\\Tools.cs",
-              "RelativeDocumentMoniker": "Calculator\\Tools.cs",
-              "ToolTip": "C:\\Calculator\\Calculator\\Tools.cs",
-              "RelativeToolTip": "Calculator\\Tools.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAmwO0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T23:46:42.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
@@ -70,6 +57,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T16:45:57.031Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Calculator\\Calculator\\Tools.cs",
+              "RelativeDocumentMoniker": "Calculator\\Tools.cs",
+              "ToolTip": "C:\\Calculator\\Calculator\\Tools.cs",
+              "RelativeToolTip": "Calculator\\Tools.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAA0wOQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:46:42.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
